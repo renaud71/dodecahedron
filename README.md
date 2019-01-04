@@ -1,6 +1,7 @@
 # dodecahedron
 central projection of a spherical map on a dodecahedron, matlab script
 author: R Toussaint, Institut de Physique du Globe de Strasbourg, CNRS / University of Strasbourg, Dec 2018
+[![DOI](https://zenodo.org/badge/163993570.svg)](https://zenodo.org/badge/latestdoi/163993570)
 
 Matlab script
 the script is called dodemap.m
@@ -23,3 +24,4 @@ The output part, for saving purposes, uses the library  https://fr.mathworks.com
 that should be present in the directory of the script, copied in a subdirectory altmany-export_fig-5b3965b/
 
 This part at the end of the script can also be commented, and the figures saved directly, commenting the last 7 lines of the script.
+
